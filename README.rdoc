@@ -1,1 +1,2 @@
-== Blogger App from (http://tutorials.jumpstartlab.com/projects/blogger.html)
+== Blogger App
+- from http://tutorials.jumpstartlab.com/projects/blogger.html
